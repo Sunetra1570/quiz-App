@@ -310,7 +310,7 @@ Need help? Have questions?
 
 ### 🌟 **Star this repository if you enjoyed the quiz!** ⭐
 
-**Made with ❤️ by the Quiz Master Team**
+**Made with ❤️ by Sunetra Tiwary**
 
 [🏠 Homepage](https://github.com/Sunetra1570/quiz-App) • [🐛 Report Bug](https://github.com/Sunetra1570/quiz-App/issues) • [✨ Request Feature](https://github.com/Sunetra1570/quiz-App/issues)
 
